@@ -1,0 +1,142 @@
+.body{
+    background-color: #212121;
+}
+.heading{
+    height: 70px;
+    margin-bottom: 70px;
+    border-top-color: rgb(210, 201, 201);
+    border-bottom: solid;
+    border-bottom-color: rgb(210, 201, 201) ;
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: fixed;
+    top: 0;
+    background-color:rgb(30, 29, 29); 
+}
+
+.p_and_s{
+    display: flex;
+    padding-top: 25px;
+    margin-right: 170px;
+    cursor: pointer;
+    color: white;
+}
+.p_and_s:hover{
+    color:grey;
+}
+.Blog{
+    display: flex;
+    padding-top: 25px;
+    margin-right: 170px;
+    cursor: pointer;
+    color: white;
+}
+.blog:hover{
+    color:grey;
+}
+.blog{
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+}
+.blog:active{
+    text-decoration:none;
+}
+.Support{
+    display: flex;
+    padding-top: 25px;
+    margin-right: 170px;
+    cursor: pointer;
+    color: white;
+}
+.Support:hover{
+    color:grey;
+}
+.Trials{
+    display: flex;
+    padding-top: 25px;
+    margin-right: 100px;
+    cursor: pointer;
+    margin-right: 500px;
+    color: white;
+}
+.trial:hover{
+    color:grey;
+}
+.trial{
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+}
+.searchsvg{
+    display: flex;
+    margin-right: 30px;
+    align-items: center;
+}
+.searchimg{
+    width:30px;
+    height: 30px;
+    cursor: pointer;
+}
+.acc{
+   display: flex;
+   align-items: center;
+   margin-right: 30px;
+}
+.accinfo{
+    width:35px;
+    height:30px;
+    cursor: pointer;}
+
+.bodydiv{
+        display: flex;
+        flex-direction: row;
+        width: 1550px;
+    }
+    .dp1{
+        margin-top: 50px;
+    }
+    .dp{
+        width: 600px;
+        height: 600px;
+        border-radius: 300px;
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-right: 100px;
+    }
+    .h11{
+        display: flex;
+        align-items: top;
+        width: 600px;
+        height: 150px;
+        padding-top: 0;
+        margin-bottom: 10px;
+    }
+    .head{
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        width: 700px;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    .head1{
+        color:rgb(255, 255, 255) ;
+        font-size: 78px;
+        font-weight: 500;
+        margin-left: 20px;
+    }
+    .para{
+        display: flex;
+        flex-direction: column;
+        align-items: top;
+        width: 600px;
+        margin-top: 0px;
+        margin-bottom: 13px;
+    }
+    .para1{
+        color: rgb(255, 255, 255);
+        font-size: 27px;
+        font-weight: 300;
+        margin-left: 25px;
+    }
